@@ -1,3 +1,3 @@
 # My First Git Repo
-## This is my first git repo
+## Hello,I'm Ranju,Data Scientist.
 hello ranju
